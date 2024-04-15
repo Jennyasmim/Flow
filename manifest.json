@@ -1,0 +1,23 @@
+
+{
+    "name": "FloWer",
+    "short_name": "FloWer",
+    "background_color": "#FFC0C6",
+    "theme_color": "#A52968",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "index.html",
+    "lang": "pt",
+    "description": "A menstrual note-taking and calendar app.",
+    "icons":[{"purpose":"maskable",
+              "sizes":"512x512",
+              "src":"assets/img/team/icon512_maskable.png",
+              "type":"image/png"},
+    {"purpose":"any",
+    "sizes":"512x512",
+    "src":"assets/img/team/icon512_rounded.png",
+    "type":"image/png"}]
+  }
+  
